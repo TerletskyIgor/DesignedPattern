@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  Logger.swift
 //  Singleton
 //
 //  Created by Igor Terletskyi on 23.02.2020.
